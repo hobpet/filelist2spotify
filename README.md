@@ -96,3 +96,7 @@ set SPOTIPY_CLIENT_ID='your-spotify-client-id'
 set SPOTIPY_CLIENT_SECRET='your-spotify-client-secret'
 set SPOTIPY_REDIRECT_URI='your-app-redirect-url'
 ```
+
+## Acknowledgements
+
+https://github.com/FutureSharks/spotify-m3u-import
